@@ -1,3 +1,8 @@
+'''
+Extracts 1s audio clips and saves their spectrograms as audio input to the network.
+'''
+
+
 import scipy.signal
 import numpy as np
 from pydub import AudioSegment
