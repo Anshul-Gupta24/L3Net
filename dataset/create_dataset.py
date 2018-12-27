@@ -1,3 +1,8 @@
+'''
+Creates the train and test csv dataset files
+'''
+
+
 import numpy as np
 import pandas as pd
 import sklearn.model_selection
