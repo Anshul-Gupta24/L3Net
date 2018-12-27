@@ -22,7 +22,7 @@
 #### ```>>bash download.sh``` 
 #### This downloads the videos upto a maximum length of 20 seconds (We use only the first 10s of data). Note that several of the links do not work.
 #### To create the dataset, run:
-#### ```>>python create_dataset.py```
+#### ```>>bash run.sh```
 #### </br>
 
 
