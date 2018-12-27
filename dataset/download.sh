@@ -1,4 +1,7 @@
 #!/bin/sh
+'''
+Script to download videos. Videos are saved in ./vids
+'''
 
 URL_FILE="urls_public.txt"
 num=0
