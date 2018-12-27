@@ -1,3 +1,8 @@
+'''
+Extracts frames from the video to form the visual input to the network
+'''
+
+
 import numpy as np
 import cv2
 import os
