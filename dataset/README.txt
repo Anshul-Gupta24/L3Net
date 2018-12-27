@@ -1,5 +1,11 @@
 Fast Process
 
+Required folders:
+1. vids
+2. audio
+3. removed
+4. image
+5. spectrogram
 
 To download videos:
 >>bash download.sh
@@ -11,16 +17,8 @@ To create dataset:
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 
+
 Step by Step Process
-
-
-Required folders:
-1. vids
-2. audio
-3. removed
-4. image
-5. spectrogram
-
 
 To download the videos:
 >>bash download.sh
