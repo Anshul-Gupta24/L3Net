@@ -28,7 +28,7 @@
 
 ### Running the Code
 #### To train the model, run:
-#### ```python train.py```
+#### ```>>python train.py```
 #### The model is saved in an h5 file as 'model.h5' at the end of every epoch. 
 #### </br>
 
